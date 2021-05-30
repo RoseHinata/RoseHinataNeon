@@ -1,0 +1,166 @@
+body {
+    background-color: #000 !important;
+    background-attachment:fixed !important;
+    background-image:url('RHbg.png') !important;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#fff;
+    font-size:11px;
+    text-shadow:2px 2px #000;
+}
+
+.container {
+    position:relative;
+    width:900px;
+    height:1900px;
+    margin: 0 auto;
+    background-image:url("RHneon.png");
+    background-color:transparent;
+}
+.dp {
+    position:absolute;
+    width:160px;
+    height:220px;
+    left:143px;
+    top:580px;
+    opacity:.6;
+    background-image:url("https://www.imvu.com/catalog/web_av_pic.php?u=260022361");
+}
+
+.mr {
+    position:absolute;
+    width:418px;
+    height:518px;
+    left:374px;
+    top:591px;
+    overflow:hidden;
+    border:none !important;
+}
+
+.ul {
+    position:absolute;
+    width:184px;
+    height:205px;
+    left:131px;
+    top:905px;
+    overflow:hidden;
+    border:none !important;
+}
+
+.mc {
+    position:absolute;
+    width:400px;
+    height:225px;
+    left:250px;
+    top:1190px;
+    overflow:hidden !important;
+    border:none !important;
+}
+
+.pb {
+    position:absolute;
+    width:700px;
+    height:80px;
+    left:123px;
+    top:1475px;
+    overflow:hidden !important;
+    border:none !important;
+    text-align: center;
+}
+
+.bu {
+    position:absolute;
+    width:442px;
+    height:74px;
+    left:20px;
+    top:362px;
+    border:none !important;
+    background-color:transparent !important;
+}
+
+.b1 {
+    position:absolute;
+    width:41px;
+    height:10px;
+    left:655px;
+    top:139px;
+}
+
+.b2 {
+    position:absolute;
+    width:22px;
+    height:10px;
+    left:618px;
+    top:214px;
+}
+
+.b3 {
+    position:absolute;
+    width:34px;
+    height:10px;
+    left:705px;
+    top:213px;
+}
+
+.b4 {
+    position:absolute;
+    width:55px;
+    height:10px;
+    left:648px;
+    top:287px;
+}
+
+.b5 {
+    position:absolute;
+    width:74px;
+    height:10px;
+    left:593px;
+    top:361px;
+}
+
+.b6 {
+    position:absolute;
+    width:67px;
+    height:10px;
+    left:688px;
+    top:361px;
+}
+
+.b7 {
+    position:absolute;
+    width:26px;
+    height:10px;
+    left:662px;
+    top:434px;
+}
+
+.c1 {
+    position:absolute;
+    width:16px;
+    height:7px;
+    left:158px;
+    top:815px;
+}
+
+.c2 {
+    position:absolute;
+    width:35px;
+    height:7px;
+    left:185px;
+    top:815px;
+}
+
+.c3 {
+    position:absolute;
+    width:19px;
+    height:7px;
+    left:231px;
+    top:815px;
+}
+
+.c4 {
+    position:absolute;
+    width:24px;
+    height:7px;
+    left:262px;
+    top:815px;
+}

@@ -1,0 +1,81 @@
+body {
+    background-color: transparent !important;
+    background-attachment:fixed !important;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#fff;
+    font-size:10px;
+    padding:10px;
+}
+
+p {
+    color:#fff;
+    font-size:10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow:2px 2px #000;
+}
+
+b {
+    color:#fb00ff;
+}
+
+i {
+    color:#00c4ff;
+}
+
+u {
+    color:#0cff65;
+}
+
+h {
+    color:#fff;
+    background-color:#a700fe;
+    text-shadow:0px 0px 0px;
+    padding-left:3px;
+    padding-right:3px;
+}
+
+a {
+    color:#fb00ff;
+    text-decoration:none;
+}
+
+blockquote {
+    border-left:10px solid #0046c2;
+    border-right:10px solid #0046c2;
+    text-align:center;
+    padding:5px;
+}
+
+a:hover {
+    color:#00ffc3;
+    transition: .5s ease-in-out !important;
+    -o-transition: .5s ease-in-out !important;
+    -moz-transition: .5s ease-in-out !important;
+    -webkit-transition: .5s ease-in-out !important;
+    text-decoration:none;
+    letter-spacing:2px;
+}
+
+h1 {
+    font-family: FastHand;
+    font-size:40px;
+    padding-top:10px;
+    line-height:25px;
+    text-shadow:2px 2px 3px #00c4ff;
+}
+
+h2 {
+    font-family:'Small Fonts', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:5pt;
+    color:#00ffc3;
+    text-transform:uppercase;
+    border-top:solid #00ffc3 1px;
+    border-bottom:solid #00ffc3 1px;
+    padding:2px;
+}
+
+@font-face {
+    font-family: FastHand;
+    src: url(FastHand.woff);
+}
+
