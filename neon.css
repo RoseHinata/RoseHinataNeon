@@ -1,7 +1,7 @@
 body {
     background-color: #000 !important;
     background-attachment:fixed !important;
-    background-image:url('RHbg.png') !important;
+    background-image:url('https://rosehinata.github.io/RoseHinataNeon/RHbg.png') !important;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:#fff;
     font-size:11px;
@@ -13,7 +13,7 @@ body {
     width:900px;
     height:1900px;
     margin: 0 auto;
-    background-image:url("RHneon.png");
+    background-image:url("https://rosehinata.github.io/RoseHinataNeon/RHneon.png");
     background-color:transparent;
 }
 .dp {
