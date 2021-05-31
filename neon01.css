@@ -84,6 +84,7 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 90px;
+  height:100px;
 }
 
 div.gallery:hover {
