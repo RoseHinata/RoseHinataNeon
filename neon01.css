@@ -39,6 +39,10 @@ a {
     text-decoration:none;
 }
 
+img {
+    float:left;
+}
+
 blockquote {
     border-left:10px solid #0046c2;
     border-right:10px solid #0046c2;
