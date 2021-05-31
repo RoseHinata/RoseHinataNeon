@@ -81,14 +81,18 @@ h2 {
 
 div.gallery {
   margin: auto;
-  border: 1px solid #ccc;
+  border: 1px solid #0046c2;
   float: left;
   width: 120px;
   height:100px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 2x solid #00ffc3;
+  transition: .5s ease-in-out !important;
+  -o-transition: .5s ease-in-out !important;
+  -moz-transition: .5s ease-in-out !important;
+  -webkit-transition: .5s ease-in-out !important;
 }
 
 div.gallery img {
